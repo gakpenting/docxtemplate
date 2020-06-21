@@ -1,0 +1,9 @@
+docx
+.vscode
+cv.docx
+cv_rino.docx
+.env
+__pycache__
+docxvenv
+generated_resume.docx
+generated_resume.pdf
